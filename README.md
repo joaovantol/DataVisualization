@@ -1,4 +1,4 @@
-# projeto1viscomp
+# Projeto de Visualização Computacional
 
 Este trabalho tem como objetivo criar soluções de visualização para uma base que contém dados sobre os 1000 melhores filmes do site IMDb.
 
